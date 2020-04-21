@@ -1,0 +1,87 @@
+
+<!--
+          <!-- work item -->
+          <div class="col-sm-3 work-item">
+            <img src="images/Works-image-2.jpg" alt="">
+            <div class="overlay">
+              <div class="overlay-content">
+                <img src="images/overlay-image.jpg"/>
+                <p>Labore et dolore magnam </p>
+                <span>Photography</span>
+              </div>
+            </div>
+          </div>
+          
+
+          <!-- work item -->
+          <div class="col-sm-3 work-item">
+            <img src="images/Works-image-3.jpg" alt="">
+            <div class="overlay">
+              <div class="overlay-content">
+                <img src="images/overlay-image.jpg"/>
+                <p>Labore et dolore magnam </p>
+                <span>Photography</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- work item -->
+          <div class="col-sm-3 work-item">
+            <img src="images/Works-image-4.jpg" alt="">
+            <div class="overlay">
+              <div class="overlay-content">
+                <img src="images/overlay-image.jpg"/>
+                <p>Labore et dolore magnam </p>
+                <span>Photography</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- work item -->
+          <div class="col-sm-3 work-item">
+            <img src="images/Works-image-5.jpg" alt="">
+            <div class="overlay">
+              <div class="overlay-content">
+                <img src="images/overlay-image.jpg"/>
+                <p>Labore et dolore magnam </p>
+                <span>Photography</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- work item -->
+          <div class="col-sm-3 work-item">
+            <img src="images/Works-image-6.jpg" alt="">
+            <div class="overlay">
+              <div class="overlay-content">
+                <img src="images/overlay-image.jpg"/>
+                <p>Labore et dolore magnam </p>
+                <span>Photography</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- work item -->
+          <div class="col-sm-3 work-item">
+            <img src="images/Works-image-7.jpg" alt="">
+            <div class="overlay">
+              <div class="overlay-content">
+                <img src="images/overlay-image.jpg"/>
+                <p>Labore et dolore magnam </p>
+                <span>Photography</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- work item -->
+          <div class="col-sm-3 work-item">
+            <img src="images/Works-image-8.jpg" alt="">
+            <div class="overlay">
+              <div class="overlay-content">
+                <img src="images/overlay-image.jpg"/>
+                <p>Labore et dolore magnam </p>
+                <span>Photography</span>
+              </div>
+            </div>
+          </div>
+          -->

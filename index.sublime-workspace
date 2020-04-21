@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"class",
+				"class	class …"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"fu",
+				"fullview"
+			],
+			[
+				"get_",
+				"get_class"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"c",
+				"class	class …"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"me",
+				"method_exists"
+			],
+			[
+				"p",
+				"parents"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"cla",
+				"class_parents"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"del",
+				"delete_id"
+			],
+			[
+				"ro",
+				"rows"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"bi",
+				"bind"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"filter",
+				"filter_input_array"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"User",
+				"Username"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"s",
+				"sum"
+			],
+			[
+				"fir",
+				"firstNum"
+			],
+			[
+				"fi",
+				"firstNum"
+			],
+			[
+				"a",
+				"args"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"background-i",
+				"background-image"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 1380,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Package Control: Add Repository"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/my work/Brandi/css",
+		"/D/my work/Brandi/js"
+	],
+	"file_history":
+	[
+		"/D/my work/Brandi/index.html",
+		"/C/Users/islam elbadawy/Downloads/Compressed/shadowbox-gallery-source-codes/css/styles.css",
+		"/D/my work/Brandi/css/style.css",
+		"/C/xampp/htdocs/wordpress-to-bootstrap/style.css",
+		"/C/Users/islam elbadawy/AppData/Local/Temp/Rar$DI40.360/main.css",
+		"/D/my work/Brandi/js/script.js",
+		"/C/Program Files (x86)/Ampps/www/php.dev/controllers/home.php",
+		"/C/Program Files (x86)/Ampps/www/php.dev/classes/Controller.php",
+		"/C/Program Files (x86)/Ampps/www/php.dev/Classes/Bootstrap.php",
+		"/C/Program Files (x86)/Ampps/www/php.dev/index.php",
+		"/C/Program Files (x86)/Ampps/www/php.dev/classes/Database.php",
+		"/D/my work/Brandi/Untitled-1.txt",
+		"/D/Courses/Udemy_Build Responsive Real World Websites with HTML5 and CSS3.E_M_A/my work/omni food/css/style.min.css",
+		"/D/my work/Brandi/js/bootstrap.js",
+		"/D/my work/Brandi/css/bootstrap.min.css",
+		"/C/xampp/htdocs/RTC-slim-API/src/middleware.php",
+		"/C/xampp/htdocs/RTC-slim-API/src/dependencies.php",
+		"/C/xampp/htdocs/RTC-slim-API/src/settings.php",
+		"/C/xampp/htdocs/RTC-slim-API/src/routes.php",
+		"/D/my work/najah corse/css/style.css",
+		"/D/my work/najah corse/index.html",
+		"/D/my work/A.Elmasry/New Definition/index.html",
+		"/D/my work/A.Elmasry/New Definition/css/style.css",
+		"/C/Users/islam elbadawy/Downloads/Compressed/DirectionAwareHoverEffect-master/css/demo.css",
+		"/C/Users/islam elbadawy/Downloads/Compressed/DirectionAwareHoverEffect-master/css/noJS.css",
+		"/D/my work/zsoft/Our Website/English/index.html",
+		"/D/my work/test/index.html",
+		"/C/xampp/htdocs/index.php",
+		"/D/Courses/ملتقي توزيع الكورسات/courses/Udemy - Become a Professional Web Developer/04 CSS and CSS3 Projects/Section 04 - css-and-css3-source-codes/MULTIPLE BACKGROUND IMAGES/css/primary.css",
+		"/D/Courses/ملتقي توزيع الكورسات/courses/Udemy - Become a Professional Web Developer/04 CSS and CSS3 Projects/Section 04 - css-and-css3-source-codes/DROPDOWN LIST MENU/css/primary.css",
+		"/D/my work/My Website/index.html",
+		"/D/my work/My Website/includes/css/styles.css",
+		"/D/Courses/New folder/bootstrap-3.3.6-dist/css/bootstrap.css",
+		"/D/Courses/New folder/bootstrap-3.3.6-dist/js/bootstrap.js",
+		"/D/my work/B2W/assets/js/main.js",
+		"/D/my work/My Website/includes/js/script.js",
+		"/D/my work/zsoft/Our Website/English/css/style.css",
+		"/D/my work/A.Elmasry/New Definition/index2.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/script.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
